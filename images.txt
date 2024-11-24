@@ -3,4 +3,4 @@ dannicool/docker-wechatbot-webhook
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-python:alpine3.7.1
+python:alpine3.19
